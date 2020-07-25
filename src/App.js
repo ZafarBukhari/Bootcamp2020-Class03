@@ -14,7 +14,7 @@ function App() {
         </div>
         
         <div className="App">
-          <Users username="bukhary72pk" />
+          <Users username="bukhary72pk@yahoo.com" />
         </div>
     </div>
   );
